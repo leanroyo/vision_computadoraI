@@ -1,1 +1,1 @@
-# Vision por Computadora 1
+# Vision por Computadora I
